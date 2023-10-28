@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 20vh;
+}
+
+#character {
+    font-size: 72px;
+    font-weight: bold;
+}
+
+#guess {
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+#message {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.flash-green {
+    background-color: #00FF00;
+}
+
+.flash-red {
+    background-color: #FF0000;
+}
