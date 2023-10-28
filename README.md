@@ -54,3 +54,4 @@ may I ask you to provide me with an object that contains every single katana and
 Well, After this, it returned the correct java script object and with it, the website/game was done. This was a very simple task, which I could have very well implemented by myself.
 However, the beauty of Chat GPT lies in the fact I managed to get this game working in less than 5 minutes, whereas if I were to code myself it would have taken around 1 hour.
 So with the help of Prompt Engineering, I was able to obtain a nice and functional game to practice with my studies without much work or sweat! Thanks Chat GPT! 
+Feel free to try it out at: [link](https://ooiale.github.io/How-Cool-Is-ChatGPT-and-the-importance-of-Prompt-Engineering/)
